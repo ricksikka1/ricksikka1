@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey, I'm Rick 👋
+
+I'm currently a fourth year student at the University of Waterloo studying Computer Engineering
+
+I will be working at Citadel this upcoming Fall and I am open to New Grad 2022 Oppertunities
+
+My specialities are Backend, Full Stack and Infrastructure development
 
 <!--
 **ricksikka1/ricksikka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
