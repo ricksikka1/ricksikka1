@@ -2,7 +2,7 @@
 
 I'm currently a fourth year student at the University of Waterloo studying Computer Engineering
 
-I will be working at Citadel this upcoming Fall and I am open to New Grad 2022 Oppertunities
+I will be working at Citadel this upcoming Fall and I am open to New Grad 2022 Opportunities
 
 My specialities are Backend, Full Stack and Infrastructure development 👨‍💻
 
